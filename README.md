@@ -1,8 +1,3 @@
-<style>
-  body {
-    background-color: #f0f0f0; /* Replace with your desired background color */
-  }
-</style>
 ### Hi there 👋, I'm Declan, a Software Developer
 
 ![I Am A Software Developer](https://user-images.githubusercontent.com/123401220/259091595-756df3ec-0860-4824-94b2-0d34db108953.png)
