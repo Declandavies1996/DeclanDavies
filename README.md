@@ -12,8 +12,8 @@ Experienced Senior Software Developer with a focus on .NET Core, Blazor, Razor P
 * Entity Framework 
 * SQL Server
 ## Examples Of Works In Journey Learning Python
-<img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/To_Do_App.gif" width="400" />
-<img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/ImdbWebScraper.gif" width="400" />
+<img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/To_Do_App.gif" width="400"  />
+<img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/ImdbWebScraper.gif" width="400"  />
 ## Further Information
 
 - 🔭 Currently building up my GitHub repository with projects showcasing my skills
