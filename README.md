@@ -12,7 +12,7 @@ Experienced Senior Software Developer with a focus on .NET Core, Blazor, Razor P
 * Entity Framework 
 * SQL Server
 ## Examples Of Works In Journey Learning Python
-
+<img src="" width="256" />
 ## Further Information
 
 - 🔭 Currently building up my GitHub repository with projects showcasing my skills
