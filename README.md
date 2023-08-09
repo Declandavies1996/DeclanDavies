@@ -6,7 +6,7 @@ Passionate Senior Software Developer specializing in .NET Core, Blazor, Razor Pa
 
 - **BSc in Applied Computing (Ongoing)**
   - Open University, Expected Graduation Date : 2025
-  - Relevant Coursework: List any relevant courses you're taking or have completed.
+  - Relevant Units:
     - Machine Learning and Artificial Intelligence: Exploring advanced concepts in machine learning and AI algorithms.
     - Interaction Design and User Experience: Studying principles of user-centered design and creating seamless user experiences.
 
