@@ -139,12 +139,12 @@ Passionate Senior Software Developer specializing in .NET Core, Blazor, Razor Pa
 ## Examples Of Works In Journey Learning Python
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/To_Do_App.gif" width="350" />
+    <p align="center"><img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/To_Do_App.gif" width="350" /></p>
     <p><b>To-Do App:</b> This Flask To-Do App is a simple web application that allows users to manage their tasks. Users can add new tasks, which get stored in a list called tasks. They can also delete tasks by clicking on a task's delete button, which removes the selected task from the list. The app has basic error handling to ensure that tasks are deleted only if the specified index is within the valid range of tasks. The app uses the Flask framework to handle routing, rendering templates, and managing HTTP requests.</p>
     <p><a href="https://github.com/Declandavies1996/ToDoAppUsingFlask" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
   </div>
   <div>
-    <img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/ImdbWebScraper.gif" width="350" />
+    <p align="center"><img src="https://github.com/Declandavies1996/Declandavies1996/blob/main/ImdbWebScraper.gif" width="350" /></p>
     <p><b>IMDb Web Scraper:</b> This Streamlit IMDb Web Scraper app allows users to input an IMDb Movie ID and fetch information about the movie from the IMDb website. The app uses the Streamlit framework to create a user interface where users can input a Movie ID. Upon providing a valid Movie ID, the app sends an HTTP request to IMDb, extracts movie information such as the title, rating, and description using BeautifulSoup, and displays the extracted data in a user-friendly format.</p>
     <p><a href="https://github.com/Declandavies1996/IMDB_WebScraping_With_Interface" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
   </div>
