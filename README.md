@@ -150,6 +150,15 @@ Passionate Senior Software Developer specializing in .NET Core, Blazor, Razor Pa
   </div>
 </div>
 
+## Examples Of Works : .NET Core C#
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <p align="center"><img src="https://github.com/Declandavies1996/TaskTrackr-dotnet/blob/master/TaskTracker.png" width="350" /></p>
+    <p><b>Task Tacker App:</b> The Task Tracker App is a user-friendly task management application built using ASP.NET Razor Pages. It allows users to efficiently handle tasks by creating, updating, and marking them as completed. With features like user authentication, responsive design, and intuitive task organization, this app serves as a practical showcase of web development skills. Experience seamless task management with the Task Tracker App.</p>
+    <p><a href="https://github.com/Declandavies1996/TaskTrackr-dotnet" target="_blank" rel="noopener noreferrer">GitHub Repository</a></p>
+  </div>
+</div>
+
 ## Further Information
 - 🔭 Continuously enriching my GitHub portfolio with impactful projects that showcase my skillset.
 - 🌱 As a beginner, I'm currently exploring the world of Python and expanding my expertise in this versatile language.
